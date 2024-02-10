@@ -4,8 +4,8 @@ This project is created using react vite [HTML, CSS, JS]
 
 - ![Project overview](https://github.com/Vikash2048/clock/blob/main/img1.png)
 
-- link on the project
-- [clock](https://65c75cb5bb96ae5c2f82ffc6--dashing-dango-5ebb96.netlify.app/)
+- link on the project :- [clock](https://65c75cb5bb96ae5c2f82ffc6--dashing-dango-5ebb96.netlify.app/)
+
 
 
 
